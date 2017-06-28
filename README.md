@@ -1,3 +1,3 @@
-# SampleProjects
+# DataStructure and Algorithms Questions
 
-This contains the various projects and bolier plate code related to various technolgies 
+

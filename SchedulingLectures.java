@@ -1,5 +1,5 @@
-package com.citi.tds.dna.consumer.externalenricher.qps;
 
+//Given aset of lectures target is to reduce the buffer time in between  the lectures.
 //Given a time limit as W and each lecture has some time slot try to mininze the buffer time by scheduling lectures 
 // in any order 
 public class SchedulingLectures {
